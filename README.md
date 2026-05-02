@@ -46,3 +46,20 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+---
+
+## 📌 Featured Interests
+
+- 🧩 **Backend & Software Architecture**
+- 🏗️ **Object-Oriented Programming (OOP)**
+- 🤖 **Machine Learning**
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/yusufkahraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yusuf Kahraman" height="30" width="40" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yusufkhr" height="30" width="40" /></a>
+</p>
