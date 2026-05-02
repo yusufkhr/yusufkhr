@@ -43,9 +43,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufkhr&show_icons=true&theme=radical" alt="Yusuf's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufkhr&show_icons=true&theme=radical" alt="Yusuf's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkhr&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufkhr&layout=compact&theme=radical" alt="Top Langs" />
 </p>
