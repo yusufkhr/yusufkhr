@@ -4,8 +4,6 @@
 
 ### Software Engineering Student
 
-**Java | Spring Boot | ML | PostgreSQL | Python**
-
 ---
 
 </div>
