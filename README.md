@@ -13,7 +13,7 @@
 - 🎓 **Software Engineering** student (3rd Year).
 - 💻 Currently mastering **Java** and the **Spring Framework** ecosystem.
 - 🛠️ Deeply interested in **Backend Architecture**, **Design Patterns**, and **Relational Databases**.
-- ☁️ Aspiring **DevOps** and **Cloud Engineer**.
+
   
 ---
 
