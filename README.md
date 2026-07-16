@@ -51,8 +51,7 @@
 
 - 🧩 **Backend & Software Architecture**
 - 🏗️ **Object-Oriented Programming (OOP)**
-- 🤖 **Machine Learning**
-
+- 🚀 **DevOps**
 ---
 
 ## 🤝 Let's Connect
