@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yusuf Kahraman 👋
+# Hi, I'm Yusuf Kahraman
 
 ### Software Engineering Student
 
