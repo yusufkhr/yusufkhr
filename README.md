@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Software Engineering** student (3rd Year).
+- 🎓 **Software Engineering** student (4rd Year).
 - 💻 Currently mastering **Java** and the **Spring Framework** ecosystem.
 - 🛠️ Deeply interested in **Backend Architecture**, **Design Patterns**, and **Relational Databases**.
 
